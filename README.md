@@ -1,7 +1,3 @@
-# 🚀 Price Changes Dataset Overview
-
-Made with ❤️ by AbrLabs ([Mohammadreza Amani](https://github.com/MohammadrezaAmani) | [Mobina Afshari](https://github.com/MobinaAfsharii)) 🌕☁️
-
 ## Introduction
 
 Welcome to the Price Changes Dataset, a treasure trove of financial insights spanning the last 12 years! This comprehensive dataset, meticulously curated from [tgju.org](https://www.tgju.org/), offers a panoramic view of price fluctuations across various markets. Whether you're a seasoned analyst or a curious researcher, this repository holds invaluable information waiting to be explored.
